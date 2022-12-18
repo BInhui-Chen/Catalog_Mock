@@ -1,0 +1,5 @@
+*.ipynb
+*.sh
+au23wins.txt
+log.txt
+input_create.py
